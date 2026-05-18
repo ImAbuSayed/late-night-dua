@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Late Night Dua
+
+This log tracks the cryptographic history and versioning for the song **Late Night Dua** (late-night-dua).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T23:00:02.438621 | `v1` | `6544772e6a3d9ed23efcdeee09c253bb69419354ad07e87bd0391b23b232073d` | `b78261faebeeeb58f5bf24cdd654653ea874aaf8e844412395a47c022169d881` | `2026-05-18_late-night-dua-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
