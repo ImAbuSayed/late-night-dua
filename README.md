@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/late-night-dua/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Late Night Dua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/late-night-dua/) |
+| **Get License** | [Music Rights & Licensing for Late Night Dua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/late-night-dua/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sohniye teri nashili akhan da nasha eh, feel it inside
+> Main taan hun ho gaya tere te fida, nowhere to hide
+> Raatan di kaali haneri eh aashiq chhaan, hold me tight
+> Chann jeha roop mera dil luttda ae, owning the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
